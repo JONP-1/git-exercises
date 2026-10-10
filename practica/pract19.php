@@ -1,0 +1,1 @@
+echo pract 19
