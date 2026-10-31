@@ -1,0 +1,1 @@
+const vore14=""
