@@ -1,0 +1,1 @@
+echo php manio1 9
