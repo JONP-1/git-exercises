@@ -1,0 +1,1 @@
+const node6="6666node";
